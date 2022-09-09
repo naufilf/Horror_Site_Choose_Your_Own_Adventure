@@ -1,0 +1,50 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+p {
+  text-align: center;
+}
+
+.image {
+  width: 700px;
+  height: 500px;
+}
+
+h1 {
+  text-align: center;
+}
+
+#flex-container {
+  display : flex;
+  justify-content: center;
+  flex-direction: column;
+  align-content: space-between;
+}
+
+#try{
+  justify-content: center;
+}
+
+.modify{
+  text-align: center;
+  font-size: 32px;
+}
+
+div {
+  display:flex;
+  justify-content: center;
+}
+
+.white-text {
+  color:ghostwhite
+}
+
+.red-text {
+  color:red;
+}
+
+.button {
+  background-color:red;
+}
